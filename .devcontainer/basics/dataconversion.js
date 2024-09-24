@@ -8,6 +8,6 @@ console.log(typeof valueINstring)
 // "33abc"=>NaN
 // true=>1;,false=>0
 let isLoggedIN=1
-let boolLoggedIn=Boolean(isLoggedIN)
+let boolLoggedIn=Boolean(isLoggedIN);
 console.log(boolLoggedIn);
 console.log(typeof boolLoggedIn)
